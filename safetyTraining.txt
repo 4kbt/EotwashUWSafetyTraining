@@ -3,5 +3,5 @@ Name		LabChem	Asbestos	Electrical	Lead	Fire	GHS	CompressedGas	Ladder
 Charlie		N	N		N		10/2017	10/2017	3/2015	10/2017		10/2017
 Erik		N	N		N		N	N	N	N		N
 John		7/15	10/17		10/17		10/17	10/17	7/15	10/17		10/17
-Michael		9/15	1/16		1/17		1/17	1/17	9/15	10/17		10/17
+Michael		9/15	1/16		10/17		10/17	10/17	9/15	10/17		10/17
 Krishna		N	N		N		N	N	N	N		N
